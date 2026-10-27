@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<realties xmlns="https://dom.ria.com/xml/xsd/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://dom.ria.com/xml/xsd/ https://dom.ria.com/xml/xsd/dom.xsd">
+  <generation_date>2026-10-27T19-37-34</generation_date>
+  <realty>
+    <email>vasilyev100884@gmail.com</email>
+    <phone>380662522222</phone>
+    <local_realty_id>44284</local_realty_id>
+    <advert_type>Продажа</advert_type>
+    <realty_type>Участок под жилую застройку</realty_type>
+    <state>Київська</state>
+    <city>Козин</city>
+    <plot_area>50</plot_area>
+    <plot_area_unit>сотка</plot_area_unit>
+    <land_use_purpose>под жилую застройку</land_use_purpose>
+    <price_type>за участок</price_type>
+    <price>1350000</price>
+    <currency>$</currency>
+    <offer_type>от посредника</offer_type>
+    <description_uk>Адреса: Обухівський район, Козин
+
+#44284 До продажу єксклюзивна ділянка Козині, Сосновий Бір
+
+Призначення: під будівництво будинку.
+
+48-50 соток
+
+Розмір 40х120м
+
+Газ: підведено до ділянки
+
+Електрика: через дорогу
+
+Вода: свердловина 30м
+
+Каналізація: 3 ями
+
+Підʼїзд до ділянки з двох сторін:
+
+-одна сторона - плити
+
+-друга сторона - рівний асфальт
+
+На ділянці:
+
+Побудована баня на дровах.
+
+Залитий фундамент під будівлю будинку.
+
+Виконаний ландшафтний дизайн.
+
+Система автоматичного поливу по всій ділянці
+
+Освітлення ділянки.
+
+Прокладені пішохідні доріжки з каменю.
+
+Поряд:
+
+Річка Козинка 650м
+
+Траса Старообухівська 700м
+
+Queen Country Club 3 хвилини
+
+Favore супермаркет 4 хвилини
+
+На ділянці дуже тихо.
+
+Дуже статусне оточення
+
+#44284</description_uk>
+    <photos_urls>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/91ffb96fec6c9bc84e4eaf0a8f96b18c.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/06a836a6e962f7f77daab6f4318d442d.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/3f69c50cf3ca78a556ea0dc13d78ec06.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/bff08c8f61d7f5b5a01248590bb45ad5.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/2ab4caed86998949d48ab4557409d538.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/c613e521788cd457aec1a5711c4254b2.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/7c5eafc4846676a39dfbac4aecd2e625.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/d0eaadb4ad91b1cb561e4e04841a92d4.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/45660c9e2e393e790bb7648f69398a65.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/95edf426b5196a4057342618355ef478.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/4f1df963cd6e14ad0b3671b6be7c2bfe.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/7a26d12896a4e9979dd0cdd1ba935454.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/2a641a79cd604924e2ad7a52926783d8.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/698a942fc13772bdc4b362592c65354b.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/efdf9375f5db2b8dafb80d38cba1e546.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/900df1a2061dac78e3b6de6dd39f3e8a.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/909c0f68e65a5ee0501cb35d79183a63.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/99d1c4ce80f07911465353e83787cfc3.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/004eff00aacc97ac5f0390f84e9c1772.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/e03d019dbf91856d31ed0743cd4c5776.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/c83b8d1f4e981aca883d8b22b02dfcc2.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/a89b258301404a1aa1b25948879f321d.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/2e412eb3f896466fa171c72487817fce.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/c9968ab5e99d836c731118f83525c1f8.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/1fbec041090c7f4d644cbcde3fbbd0b6.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/ff0dacedcd07d00bec823e9a3dcec356.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/98c32ca8c252b8152b00f4eeeb6a3ddf.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/2809eea6986688740d133f064f191c3f.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/e91246ea74283d925bafabed53b49da4.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/0f8464f92689c9ecb98b2897379593b7.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/3cd8b46f60371510803e236d44a3596f.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/36b884a687801fa248502b593b73524b.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/e1fbf8df0d57f030d0407652929b989d.jpg</loc>
+    </photos_urls>
+  </realty>
+  <realty>
+    <email>vasilyev100884@gmail.com</email>
+    <phone>380662522222</phone>
+    <local_realty_id>50704</local_realty_id>
+    <advert_type>Продажа</advert_type>
+    <realty_type>Офисное помещение</realty_type>
+    <state>Київська</state>
+    <city>Київ</city>
+    <street>Глибочицька</street>
+    <street_type>вулиця</street_type>
+    <rooms_count>4</rooms_count>
+    <total_area>537</total_area>
+    <floor>5</floor>
+    <floors>5</floors>
+    <object_type>нежилое помещение в жилом доме</object_type>
+    <price_type>за объект</price_type>
+    <price>950000</price>
+    <currency>$</currency>
+    <offer_type>от посредника</offer_type>
+    <description_uk>Адреса: Київ, Подільський район, вул. Глибочицька, 29
+
+Продаж ексклюзивних LOFT-апартаментів на Подолі | Житло або офіс
+
+Київ, вул. Глибочицька, 29
+
+Пропонується унікальний дизайнерський простір у стилі LOFT у самому серці історичного Подолу. Ексклюзивні апартаменти які ідеально підійдуть як для комфортного проживання, так і для розміщення представницького офісу, креативної студії, шоуруму або штаб-квартири компанії.
+
+Головна особливість об'єкта — масштабний відкритий простір, велика кількість природного світла, високі стелі та авторський дизайн.
+
+Інтер'єр виконаний у сучасній естетиці LOFT із поєднанням різних фактур, матеріалів та дизайнерських рішень. Продумане зонування за допомогою меблів і декоративних елементів створює атмосферу свободи, простору та функціональності.
+
+Основні характеристики:
+
+Загальна площа: 537 м²
+
+Кількість кімнат: 4
+
+Санвузли: 2
+
+Поверх: 5/5
+
+Планування: роздільне з елементами відкритого простору
+
+Тераса на даху — особливе місце для відпочинку, зустрічей або неформального спілкування
+
+Вбудована побутова техніка входить у комплектацію
+
+Меблювання обговорюється індивідуально
+
+Можливі варіанти використання:
+
+Для проживання: простора дизайнерська резиденція для тих, хто цінує нестандартну архітектуру, приватність, свободу та індивідуальність.
+
+Для бізнесу: представницький офіс, креативний простір, архітектурне чи дизайнерське бюро, IT-компанія, шоурум або студія преміального формату.
+
+Локація
+
+Поділ, вул. Глибочицька, 29 — престижна та атмосферна частина Києва з розвиненою інфраструктурою, зручною транспортною доступністю та активним діловим і культурним життям.
+
+Це не просто нерухомість, а простір із власним характером, здатний підкреслити стиль життя власника або статус вашого бізнесу.
+
+Запрошуємо на індивідуальний перегляд! Деталі оренди, комплектація меблями та умови співпраці обговорюються.
+
+#50704</description_uk>
+    <photos_urls>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/8160bc9999d578873a578abb1aff5f73.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/05ff3f609c0514da6b853cdf5d716a3c.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/90229591f1d87a730978c61789edaa1a.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/7ad0412280cdd34081235a1505d7d46f.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/daf6b0e33085d75abfaaa3883c2b6bf2.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/d30b7c69dab88bc28ffc9ab45381d055.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/64bb89ad34e37af2b706704ffcbd8687.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/43f15ba17fd45c0f1070921b738f44d9.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/d9270a7e14fd6fc7819b7cb1b8e96ac1.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/cbf20867a0f0f4913d94047a180c6c93.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/9c6572f9b53ef9636680d57df88f570c.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/4c5084ed40d90085bf4f281b179c6dba.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/c8ceb0d454cac9be210218673d0c1a2f.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/8af4403ec04249c49bcbe707a38abc36.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/3042fd4d33bc77783a5fd73350c67c2d.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/6f4b75c060dc7809246671bffbfd6745.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/5eca232901f0bb20cd76962cd9bafbb9.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/f4908a0e3256765acb5df9db8c54292c.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/c6a93e60166d9c2c2ca9197bac1e0bdf.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/2e02a33fad91a789f98ad6c954d0b252.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/aee8e1e0da547c2757788288a223d97f.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/85996e0ebe3bd73fb2836700cc5f53f4.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/b87a368748311007efb13ac14ba688d5.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/7e311bb09edde2d7bb1735e56f7fb1c7.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/67c9aa34b3fa5a3748df486ea01f40c5.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/2dd6e273ba05f9a54b6273f3c79c4398.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/ff2cedab97eb1c50fa68cfddb331f4d0.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/fc1b44395323371aa4c359feea34b28d.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/watermark/3aa1eadecbb4e5430dc6954ddd21d784.jpg</loc>
+      <loc>https://crm-08498194.s3.eu-west-1.amazonaws.com/primes/estate-images/ce55e27662bb23aafc259481a5ec3402.jpg</loc>
+    </photos_urls>
+  </realty>
+</realties>
